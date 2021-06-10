@@ -1,0 +1,8 @@
+architectureint.intranet.mckinsey.com > > > > > architectureint.intranet.mckinsey.com
+diversityandinclusiondrupalqavip.intranet.mckinsey.com > > > > > inclusionanddiversityqa.intranet.mckinsey.com
+fprdrupalintvip.intranet.mckinsey.com > > > > > fprint.intranet.mckinsey.com
+globalcomm.intranet.mckinsey.com > > > > > globalcomm.intranet.mckinsey.com
+globalcomm.intranet.mckinsey.com > > > > > globalcomm.intranet.mckinsey.com
+globalcomm.intranet.mckinsey.com > > > > > globalcomm.intranet.mckinsey.com
+globalcomm.intranet.mckinsey.com > > > > > globalcomm.intranet.mckinsey.com
+globalcomm.intranet.mckinsey.com > > > > >  (('DNS', 'globalcomm.intranet.mckinsey.com'), ('DNS', 'globalcomm-amdc-iis03.intranet.mckinsey.com'))
